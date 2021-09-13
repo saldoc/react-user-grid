@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-user-grid/static/css/main.525af2e7.chunk.css",
-    "main.js": "/react-user-grid/static/js/main.86916461.chunk.js",
-    "main.js.map": "/react-user-grid/static/js/main.86916461.chunk.js.map",
-    "runtime-main.js": "/react-user-grid/static/js/runtime-main.4e50ad48.js",
-    "runtime-main.js.map": "/react-user-grid/static/js/runtime-main.4e50ad48.js.map",
-    "static/js/2.c66b9bed.chunk.js": "/react-user-grid/static/js/2.c66b9bed.chunk.js",
-    "static/js/2.c66b9bed.chunk.js.map": "/react-user-grid/static/js/2.c66b9bed.chunk.js.map",
+    "main.css": "/react-user-grid/static/css/main.ec91134d.chunk.css",
+    "main.js": "/react-user-grid/static/js/main.b83867ea.chunk.js",
+    "main.js.map": "/react-user-grid/static/js/main.b83867ea.chunk.js.map",
+    "runtime-main.js": "/react-user-grid/static/js/runtime-main.5c16b8ab.js",
+    "runtime-main.js.map": "/react-user-grid/static/js/runtime-main.5c16b8ab.js.map",
+    "static/js/2.5748d067.chunk.js": "/react-user-grid/static/js/2.5748d067.chunk.js",
+    "static/js/2.5748d067.chunk.js.map": "/react-user-grid/static/js/2.5748d067.chunk.js.map",
     "index.html": "/react-user-grid/index.html",
-    "static/css/main.525af2e7.chunk.css.map": "/react-user-grid/static/css/main.525af2e7.chunk.css.map",
-    "static/js/2.c66b9bed.chunk.js.LICENSE.txt": "/react-user-grid/static/js/2.c66b9bed.chunk.js.LICENSE.txt"
+    "static/css/main.ec91134d.chunk.css.map": "/react-user-grid/static/css/main.ec91134d.chunk.css.map",
+    "static/js/2.5748d067.chunk.js.LICENSE.txt": "/react-user-grid/static/js/2.5748d067.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e50ad48.js",
-    "static/js/2.c66b9bed.chunk.js",
-    "static/css/main.525af2e7.chunk.css",
-    "static/js/main.86916461.chunk.js"
+    "static/js/runtime-main.5c16b8ab.js",
+    "static/js/2.5748d067.chunk.js",
+    "static/css/main.ec91134d.chunk.css",
+    "static/js/main.b83867ea.chunk.js"
   ]
 }
