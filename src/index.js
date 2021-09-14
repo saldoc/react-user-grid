@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
-import { createStore } from 'redux';
-
-import { searchUsers } from './reducers.js'
+import { createStore, applyMiddleware, combineReducers } from 'redux';
+import thunkMiddleware from 'redux-thunk';
+import { searchUsers, fetchUsers } from './reducers.js'
 
 import App from './App';
 
 import './index.css';
-
-const store = createStore(searchUsers);
+const rootReducer = combineReducers({ searchUsers, fetchUsers });
+const store = createStore(rootReducer, applyMiddleware(thunkMiddleware));
 
 ReactDOM.render(
   <React.StrictMode>
